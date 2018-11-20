@@ -1,0 +1,35 @@
+{
+    "one":{
+        "guessTitle":"海南红心火龙果2粒装",
+        "guessIntro":"更甜更好吃，切半吭哧吭哧挖着吃",
+        "subTitle1":"但我很甜蜜",
+        "subIntro1":"别看我丑",
+        "subTitle2":"果汁多果皮薄",
+        "subIntro2":"圆圆小胖子",
+        "pic":"http://10.35.162.101:3000/./img/img-index/guess001.png",
+        "newPrice":"18.80",
+        "unit":"/盒"
+    },
+    "two":{
+        "guessTitle":"秦巴山鲜鸡蛋15枚",
+        "guessIntro":"蛋清浓稠口感细腻",
+        "subTitle1":"口感细腻",
+        "subIntro1":"口感",
+        "subTitle2":"蛋清浓稠",
+        "subIntro2":"品相",
+        "pic":"http://10.35.162.101:3000/./img/img-index/guess002.png",
+        "newPrice":"16.90",
+        "unit":"/盒"
+    },
+    "three":{
+        "guessTitle":"十月稻田东北大米吉林小町香米2.5kg",
+        "guessIntro":"一碗香米，善待自己幸福家人",
+        "subTitle1":"米香浓郁",
+        "subIntro1":"晶莹剔透",
+        "subTitle2":"精挑细选",
+        "subIntro2":"大自然的味道",
+        "pic":"http://10.35.162.101:3000/./img/img-index/guess003.png",
+        "newPrice":"19.90",
+        "unit":"/袋"
+    }
+}

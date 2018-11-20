@@ -1,0 +1,32 @@
+
+{
+    "index":{
+        "id":1,
+        "name":"index",
+        "description":"盒马-首页",
+        "sub":{
+            "id":11,
+            "description":"盒马-首页-xxx"
+        }
+    },
+    "sort":{
+        "id":2,
+        "name":"sort",
+        "description":"盒马-分类"
+    },
+    "cart":{
+        "id":3,
+        "name":"cart",
+        "description":"盒马-购物车"
+    },
+    "me":{
+        "id":4,
+        "name":"me",
+        "description":"盒马-我的",
+        "sub":{
+            "id":432,
+            "name":"hema-me-shopList",
+            "description":"盒马-我的-盒马门店"
+        }
+    }
+}

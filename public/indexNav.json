@@ -1,0 +1,52 @@
+{
+    "classOne":{
+        "className":"新鲜水果",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav001.png"
+            
+    },
+    "classTwo":{
+        "className":"时令蔬菜",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav002.png"
+        
+    },
+    "classThree":{
+        "className":"肉禽蛋品",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav003.png"
+        
+    },
+    "classFour":{
+        "className":"海鲜水产",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav004.png"
+        
+    },
+    "classFive":{
+        "className":"乳品烘焙",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav005.png"
+        
+    },    
+    "classSix":{
+        "className":"餐饮熟食",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav006.png"
+        
+    },
+    "classSeven":{
+        "className":"面点净菜",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav007.png"
+        
+    },
+    "classEight":{
+        "className":"休闲零食",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav008.png"
+        
+    },
+    "classNine":{
+        "className":"酒水饮料",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav009.png"
+        
+    },
+    "classTen":{
+        "className":"粮油百货",
+        "pic":"http://10.35.162.101:3000/./img/img-index/nav010.png"
+        
+    }
+}

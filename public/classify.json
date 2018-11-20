@@ -1,0 +1,65 @@
+{
+    "classify":{
+        "classOne":{
+            "className":"新鲜水果",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/orange1.jpg"
+                
+        },
+        "classTwo":{
+            "className":"时令蔬菜",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/shucai1.jpg"
+            
+        },
+        "classThree":{
+            "className":"肉禽蛋品",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/roulei1.jpg"
+            
+        },
+        "classFour":{
+            "className":"海鲜水产",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/shuichan1.jpg"
+            
+        },
+        "classFive":{
+            "className":"面点净菜",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/miandian1.jpg"
+            
+        },
+        "classSix":{
+            "className":"乳品烘焙",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/rupin1.jpg"
+           
+        },
+        "classSeven":{
+            "className":"餐饮熟食",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/shushi1.jpg"
+            
+        },
+        "classEleven":{
+            "className":"凉菜半成品",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/liangban1.jpg"
+            
+        },
+        "classEight":{
+            "className":"休闲零食",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/lingshi1.jpg"
+            
+        },
+        "classNine":{
+            "className":"酒水饮料",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/jiushui1.jpg"
+            
+        },
+        "classTen":{
+            "className":"粮油百货",
+            "pic":"http://10.35.162.101:3000/./img/img-sort/liangyou1.jpg"
+            
+        },
+        
+        "classTwelve":{
+            "className":"美护百货",
+            "pic": "http://10.35.162.101:3000/./img/img-sort/riyong1.jpg"
+           
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+  "yiyaoqing": [
+    {
+      "name":"杨总",
+      "time":"2018-10-15",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/01.jpg",
+      "jieguo": "7天内没有完成首单"
+    },
+    {
+      "name":"Breeze",
+      "time":"2018-10-13",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/02.jpg",
+      "jieguo": "邀请成功"
+    },
+    {
+      "name":"姐是老中医",
+      "time":"2018-10-07",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/03.jpg",
+      "jieguo": "不是新用户"
+    },
+    {
+      "name":"姐是老中医",
+      "time":"2018-10-07",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/04.jpg",
+      "jieguo": "邀请成功"
+    },
+    {
+      "name":"红**炮",
+      "time":"2018-10-17",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/05.jpg",
+      "jieguo": "该用户账号异常"
+    },
+    {
+      "name":"信仰之跃",
+      "time":"2018-10-1",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/06.jpg",
+      "jieguo": "邀请成功"
+    },
+    {
+      "name":"艳",
+      "time":"2018-09-26",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/07.jpg",
+      "jieguo": "7天内没有完成首单"
+    },
+    {
+      "name":"王燕",
+      "time":"2018-09-23",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/08.jpg",
+      "jieguo": "邀请成功"
+    },
+    {
+      "name":"谜语",
+      "time":"2018-09-22",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/09.jpg",
+      "jieguo": "邀请成功"
+    },
+    {
+      "name":"谜语",
+      "time":"2018-09-18",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/10.jpg",
+      "jieguo": "不是新用户"
+    }
+  ],
+  "yaoqingchenggong":[
+    {
+      "name":"Breeze",
+      "zhuangtai":"下单成功",
+      "time":"2018-10-13",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/01.jpg",
+      "jieguo": "15元APP全场券"
+    },
+    {
+      "name":"姐是老中医",
+      "zhuangtai":"下单成功",
+      "time":"2018-10-15",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/02.jpg",
+      "jieguo": "15元APP全场券"
+    },
+    {
+      "name":"信仰之跃",
+      "zhuangtai":"下单成功",
+      "time":"2018-10-01",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/03.jpg",
+      "jieguo": "15元APP全场券"
+    },
+    {
+      "name":"王燕",
+      "zhuangtai":"下单成功",
+      "time":"2018-09-23",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/04.jpg",
+      "jieguo": "15元APP全场券"
+    },
+    {
+      "name":"谜语",
+      "zhuangtai":"下单成功",
+      "time":"2018-09-22",
+      "img": "http://10.35.162.101:3000/./img/img-sort/img/05.jpg",
+      "jieguo": "15元APP全场券"
+    }
+  ]
+}
